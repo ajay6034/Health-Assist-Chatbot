@@ -1,1 +1,1 @@
-# Health Assistant Chatbot
+# Health Assist Chatbot
